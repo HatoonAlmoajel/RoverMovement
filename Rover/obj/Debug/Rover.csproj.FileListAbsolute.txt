@@ -1,0 +1,9 @@
+c:\users\halmo\documents\visual studio 2015\Projects\RoverAssignment\Rover\bin\Debug\Rover.exe.config
+c:\users\halmo\documents\visual studio 2015\Projects\RoverAssignment\Rover\bin\Debug\Rover.exe
+c:\users\halmo\documents\visual studio 2015\Projects\RoverAssignment\Rover\bin\Debug\Rover.pdb
+c:\users\halmo\documents\visual studio 2015\Projects\RoverAssignment\Rover\obj\Debug\Rover.exe
+c:\users\halmo\documents\visual studio 2015\Projects\RoverAssignment\Rover\obj\Debug\Rover.pdb
+c:\users\halmo\documents\visual studio 2015\Projects\RoverAssignment\Rover\obj\Debug\Rover.csprojResolveAssemblyReference.cache
+C:\Users\halmo\Desktop\RoverAssignment\Rover\bin\Debug\Rover.exe.config
+C:\Users\halmo\Desktop\RoverAssignment\Rover\obj\Debug\Rover.exe
+C:\Users\halmo\Desktop\RoverAssignment\Rover\obj\Debug\Rover.pdb

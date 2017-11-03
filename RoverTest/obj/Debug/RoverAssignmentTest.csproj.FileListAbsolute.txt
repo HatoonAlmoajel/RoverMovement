@@ -1,0 +1,8 @@
+c:\users\halmo\documents\visual studio 2015\Projects\RoverAssignment\RoverAssignmentTest\bin\Debug\RoverAssignmentTest.dll
+c:\users\halmo\documents\visual studio 2015\Projects\RoverAssignment\RoverAssignmentTest\bin\Debug\RoverAssignmentTest.pdb
+c:\users\halmo\documents\visual studio 2015\Projects\RoverAssignment\RoverAssignmentTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\halmo\documents\visual studio 2015\Projects\RoverAssignment\RoverAssignmentTest\obj\Debug\RoverAssignmentTest.csprojResolveAssemblyReference.cache
+c:\users\halmo\documents\visual studio 2015\Projects\RoverAssignment\RoverAssignmentTest\obj\Debug\RoverAssignmentTest.dll
+c:\users\halmo\documents\visual studio 2015\Projects\RoverAssignment\RoverAssignmentTest\obj\Debug\RoverAssignmentTest.pdb
+c:\users\halmo\documents\visual studio 2015\Projects\RoverAssignment\RoverAssignmentTest\bin\Debug\Rover.exe
+c:\users\halmo\documents\visual studio 2015\Projects\RoverAssignment\RoverAssignmentTest\bin\Debug\Rover.pdb
