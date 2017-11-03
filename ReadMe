@@ -1,0 +1,7 @@
+Simulation of robotic rover’s movement, a rover's position is represented by a combination of an x and y co-ordinates and a letter representing one of the four cardinal compass points. The plateau is divided up into a grid to simplify navigation. An example position might be 0, 0, N, which means the rover is in the bottom left corner and facing North.
+
+In order to control a rover the possible letters are:
+
+•	'L' – Make the rover spin 90 degrees left without moving from its current spot
+•	'R' - Make the rover spin 90 degrees right without moving from its current spot
+•	'M'. Move forward one grid point, and maintain the same heading.
